@@ -1,0 +1,15 @@
+in html div tag k ander container and use ander header vha imr src lgaya amd ek new class bnake imagenaame se css mheight di thi
+so uss bjh se website p header m image aagyi but naam img k nihche aara tha in banner jo naam h1 tag k ander likha h in html below imr src tag 
+but when we erase image classs from html and css and gave height and allid=gnment in html
+then that h1 tag came on place why??
+
+background image is not working why??
+how we can stredct the image but pixels na fatte and heaeder and image will not work
+
+in cbum project jab mein image ko assets m rkhta hhu jo ki sihaya h th image nhi aagti by background image tags 
+but agr mein uso styking folder m hir khu toh image aajajati h but usme bhi ek ctach h k image copy path se show nhi krega 
+vha uh have to sue ./image name why???
+EXCEPT IMAGE 1 in imageMain no image is coming on box after using bcaground cove as well
+
+
+why in h3 by margin and by padding getting samw result as bith r duffert?

@@ -1,0 +1,60 @@
+<div class="container">
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image1.png.jfif" class="image" />
+            <p class="headingTag">Dreaming of London?</p>
+            <p class="paraTag" align="center">Enjoy more choice with three flights a week taking off between Mumbai and
+                London from 11
+                December 2022. Plan an exciting city break and explore iconic cultural landmarks with our great fares.
+            </p>
+            <a
+                href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                    class="button">BOOK NOW</button></a>
+        </div>
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image5.png" class="image" />
+            <p class="headingTag">Enjoy 1 extra bag in economy</p>
+            <p class="paraTag" align="center">Passengers travelling from India to the UK in our World Traveller
+                (economy) cabin are now entitled to 2 checked bags as well as 2 carry-on bags.
+            </p>
+            <a
+                href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                    class="button">Check your allowance</button></a>
+        </div>
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image.png" class="image" />
+            <p class="headingTag">Explore our lounges</p>
+            <p class="paraTag" align="center">Experience the extra-special way to travel, with delicious food, plenty of space and safe, attentive service.
+            </p>
+            <a
+            href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                class="button">Find out more</button></a>
+                <P class="paratag2">Terms and Conditions apply.</P>
+        </div>
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image4.png" class="image" />
+            <p class="headingTag">Planning your trip</p>
+            <p class="paraTag" align="center">Keep up-to-date on the latest travel information with our FAQs.
+            </p>
+            <a
+            href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                class="button">Find out more</button></a>
+        </div>
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image2.png" class="image" />
+            <p class="headingTag">Explore our cabins</p>
+            <p class="paraTag" align="center">From movies in Economy to flat-bed seats in Business and luxurious First, experience the same uniquely British service across all our cabins.
+            </p>
+            <a
+            href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                class="button">Take a tour</button></a>
+        </div>
+        <div class="box">
+            <img src="F:\Coding PROJECT\projectMyOwn\newProjectCss\assets\image3.png" class="image" />
+            <p class="headingTag">New routes</p>
+            <p class="paraTag" align="center">Find out the latest destinations which we're flying to in our ever-expanding network.
+            </p>
+            <a
+            href="https://www.britishairways.com/en-in/destinations/london?dr=&dt=British%20Airways%20%7C%20Book%20Flights,%20Holidays,%20City%20Breaks%20%26%20Check%20In%20Online&scheme=&audience=travel&CUSTSEG=&GGLMember=&ban=ca1460067148f677bd6ee566872eb2af%7C%7CCAM%7C6%7CCTA1%7C1%7C%7C%7C%7CHOME%7C%7C%7C%7CL4%7C%7C%7C%7Canonymous-inspiration%7C%7C%7C&KMtag=c&KMver=1.0&clickpage=HOME"><button
+                class="button">Search new routes</button></a>
+        </div>
+    </div>

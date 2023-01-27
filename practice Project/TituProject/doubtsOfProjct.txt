@@ -1,0 +1,10 @@
+how about titu will be paraellel to about ttit chaap and want titi chaap to end in middle and titu paragraph start from right side middle in between want gap
+
+about titu font changed as dontwant to chaneg font and also it coming differently 
+
+when we use  normal ehading tag let say h3 then it comes normally but if we usign <a> anchor tag and linkd the page then withpout using bold and underline tag it by default coming in this why?
+is this bydefault with ancor tag??
+
+how to make list in center as align attribute is not working as it shows ts invalid?
+
+in bread section we userd to naan link so here i used anchor tag firdt and then inside it used li tag but on the other side i tried to do that vice versa in which first i used  li tag and then <a> tag so which format is right? can we use anything as per choice ?bcoz in oth cases result is same just the dot of unordere is covered in firdt <a> tag then <li>

@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Feedback Form</title>        
+    </head>
+    <body>
+        <fieldset>
+            <Register>Feedback Form</Register>
+        <form action="./feedbackDone.html">
+            <h5 align="right"><sup>*</sup>Note: Your contributions will be sued to tailor your experience and will not beshared with any third parties.</h5>
+            FullName:<input type="text" name="FullName" size="20" placeholder="jimmy" required/>
+            <br/>
+            <br/>
+            Phone No.:<input type="number" name="phoneNumber" size="10" required/>
+            <br/>
+            <br/>
+            DOB:<input type="date" name="date"/>
+            <br/>
+            <br/>
+            Email:<input type="email" name="email" placeholder="xyz@gmail.com" required/>
+            <br/>
+            <br/> 
+            <label>
+            Gender:<input type="radio" name="gender"/>Male
+            </label>
+            <label>
+            <input type="radio" name="gender"/>Female
+            </label>
+            <label>
+            <input type="radio" name="gender"/>Other
+            </label>
+            <br/>
+            <br/>
+            City you enjoyed Titu in:<input type="checkbox" name="delhi" value="delhi"/>Delhi
+            <input type="checkbox" name="mumbai" value="mumbai"/>Mumbai
+            <input type="checkbox" name="manali" value="Manali"/>Manali
+            <br/>
+            <br/>
+            Taste:<select name="liking">
+                <option value="good">Good</option>
+                <option value="best">Best</option>
+                <option value="can be better">Can be Better</option>
+                <option value="poor">Poor</option>
+                <option value="bad">Bad</option>
+                <option value="excellent">Excellent</option>
+            </select>
+            <br/>
+            <br/>
+            Comment:<textarea name="comment" rows="3" cols="30"></textarea> 
+            <br/>
+            <br/>
+            Experience:<input type="range" name="experience" min="1" max="5" value="1"/>
+            <br/>
+            <br/>
+            <input type="submit"/>
+            <input type="reset"/>
+        </form>
+    </fieldset>
+    </body>
+</html>
