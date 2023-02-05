@@ -1,0 +1,7 @@
+netflix websit m agr hum browsr chora kre toh header ki background image choti ho rhi h how?
+when for netflix i used display:inline 0r span so it delted the padding that i gave earlier why?
+differnece between padding and margin very confused bith doing same work?
+
+in header class headding where i wrote unlimited vala so there i used width to ristrict it so that it come in next line and 
+padding so that whole context can come in middle as i rewuire but my friend used hright and width and margin to pkace it in
+middle so whhich approach is right ? or ideal !!  

@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    grid-area: header;
+}
+.banner{
+    grid-area: banner;
+}
+.main{
+    grid-area: main;
+}
+.footer{
+    grid-area: footer;
+}
+.container{
+    display: grid;
+    grid-template-areas: "header"
+    "banner"
+    "main"
+    "footer";
+    background-color: #222;
+}
+.header{
+    background-color: black;
+    height: 750px;
+}
+.banner{
+    background-color: #222;
+    height: 2000px;
+
+}
+.main{
+    background-color: black;
+    height: 850px;
+}
+.footer{
+    background-color: #222;
+    height: 450px;
+}
+.header{
+    background-image: url("./netflixHeader-03-01.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.netflixLogo{
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 55px;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e50914;
+    font-weight: 600;
+}
+.languageButton{
+    margin-left: 900px;
+    display: inline-block;
+}
+select{
+    height: 35px;
+    width: 85px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.signinButton{
+    display: inline-block;
+    margin-left: 20px;
+}
+button{
+    height: 35px;
+    width: 80px;
+    color: white;
+    background-color: red;
+    border-radius: 4px;
+    border: 0px;
+}
+
+h1{
+    margin-top: 150px;
+    margin-left: 300px;
+    width: 700px;
+    /* background-color: blueviolet; */
+    color: white;
+    text-align: center;
+    /* padding: 80px; */
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+h2{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    width: 700px;
+    margin-top: 15px;
+    margin-left: 300px;
+    font-size: 25px;
+}
+h3{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    width: 700px;
+    margin-top: 30px;
+    margin-left: 310px;
+    font-size: 20px;
+}
+span{
+    display: inline-block;
+    margin-left: -20px;
+}
+.flex{
+     display: flex;
+     flex-wrap: nowrap;
+     justify-content: center;
+}
+.emailAddress{
+    margin-top: 20px;
+    height: 50px;
+    width: 500px;
+    border-color: grey;
+    padding-left: 8px;
+}
+.getStarted{
+    margin-top: 20px;
+    height: 54px;
+    width: 200px;
+    background-color: #E50914;
+    color: white;
+    font-size: 20px;
+    /* font-weight: bold; */
+    border: 0px;   
+}
+.getStarted:hover{
+    background-color: #FF0000;
+
+}
+.banner-flex{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.bn1{
+    height: 490px;
+    margin-top: 7.5px;
+    background-color: black;
+}
+.bn2{
+    height: 490px;
+    margin-top: 7.5px;
+    background-color: black;
+}
+.bn3{
+    height: 490px;
+    margin-top: 7.5px;
+    background-color: black;
+}
+.bn4{
+    height: 490px;
+    margin-top: 7.5px;
+    background-color: black;
+}
+.banner-para{
+    margin: 30px;
+    margin-top: 60px;
+    width: 600px;
+    height: 400px;
+    background-color: black;
+}
+.banner-image{
+    margin: 30px;
+    /* margin-top: 30px; */
+    width: 600px;
+    height: 400px;
+    background-color: black;
+}
+h4{
+    margin-left: 80px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 40px;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:100;
+    color: white;
+    font-size:55px; */
+}
+h5{
+    padding: 10px;
+    padding-left: 80px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+    font-size: 25px;
+}
+.main-heading{
+    padding-top: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+.main-body{
+    background-color: black;
+    height: 500px;
+}
+.dropDown{
+    height: 70px;
+    width: 900px;
+    margin: 5px;
+    background-color: #303030;
+    margin-left: 220px;
+    /* margin-top: 8px; */
+}
+pre{
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+    font-size: 25px;
+}
+.main-box{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    width: 700px;
+    margin-top: 5px;
+    margin-left: 310px;
+    font-size: 20px;
+}
+.footer-body{
+    height: 450px;
+    background-color: orange;
+    margin-top: 7.5px;
+}
+.footer-line{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    height: 40px;
+    width: 300px;
+    background-color: yellow;
+    color: rgba(255, 255, 255, 0.7);
+    padding-top: 65px;
+    /* padding: 65px; */
+    /* margin-top: 50px; */
+    margin-left: 130px;
+}
+.footer-box{
+    height: 300px;
+    width: 350px;
+    background-color:navy;
+    margin: 10px;
+}
+ol{
+    list-style-type: none;
+}
+li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.footer-button{
+    margin-top: 25px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+/* body{
+    background-color: #222;
+} */
