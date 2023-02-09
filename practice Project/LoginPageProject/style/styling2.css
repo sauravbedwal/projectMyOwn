@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    background-color: #121010;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center
+}
+.login-card{
+    background-color: black;    
+    height: 92vh;
+    width: 40vw;
+    min-width: 300px;
+    border-radius: 30px;
+    box-shadow: 7px 7px 7px #141414;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.login-box{
+    width: 85%;
+    text-align: center;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    text-shadow: 3px 3px #242d34;
+    margin-top: -10px;
+}
+button{
+    margin-top: 10px;
+    width: 70%;
+    min-width: 200px;
+    height: 45px;
+    border-radius: 50px;
+    font-size: 17.5px;
+    font-family:  sans-serif;
+    color: #3c4043;
+    border: 1px solid rgb(163, 159, 159);
+}
+.logo{
+    height: 60px;
+    padding-top: 10px;
+}
+.email-password{
+    width: 68%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 3px;
+    padding-left: 7px;
+    background-color: black;
+    color: white;
+}
+.signup{
+    color: white;
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: grey;
+}
+a:hover{
+    color: white;
+}
+.Signup-form{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+   
+}

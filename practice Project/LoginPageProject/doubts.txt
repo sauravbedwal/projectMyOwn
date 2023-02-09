@@ -1,0 +1,5 @@
+agr m apne header or footer ko 10px height du toh footer k niche ek space aaa rha h white color ka kyu?
+if i already created a grid then i divided the pae in  section then why it is shwing space and if i zommed 
+out it till 30% the it shows that empty space very much why?
+
+why in login while inspect id cvering whole vertiacal line?
