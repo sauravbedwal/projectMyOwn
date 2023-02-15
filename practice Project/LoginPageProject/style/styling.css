@@ -59,6 +59,7 @@ button{
 }
 span{
     color: white;
+    overflow: hidden;
 }
 .Or{
     font-size: 30px;
