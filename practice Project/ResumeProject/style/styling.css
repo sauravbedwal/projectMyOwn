@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-main{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+.sidebar{
+    grid-area: sidebar;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.main{
+    grid-area: main;
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.resume-card{
+    height: 90%;
+    width: 75%;
+    display: grid;
+    grid-template-areas: "sidebar main main main";
+    border-radius: 25px;
+    overflow: hidden;
+}
+.image-top{
+    margin: 20px;
+    /* height: 400px; */
+}
+.image1{
+    border-radius: 360px;
+    width: 100%;
+    box-shadow: 1px 1px 10px  black;
+}
+.name{
+    margin-top: -90%;
+}
