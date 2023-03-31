@@ -37,7 +37,8 @@ setInterval(function Gameover (){
     var blueCarTop = parseInt(window.getComputedStyle(blueCar).getPropertyValue("top"))
     var blueCarLeft = parseInt(window.getComputedStyle(blueCar).getPropertyValue("left"));
     var raceCarLeft = parseInt(window.getComputedStyle(raceCar).getPropertyValue("left"));
-        if((blueCarLeft === raceCarLeft) && (blueCarTop > 250) && (blueCarTop < 450)){
+        // if((blueCarLeft === raceCarLeft) && (blueCarTop > 250) && (blueCarTop < 450)){
+            if((blueCarLeft === raceCarLeft) && (blueCarTop > 400) && (blueCarTop < 599)){
             result.style.display = "block";
             game.style.display = "none";
             score.innerHTML = `score: ${counter} `;
