@@ -15,13 +15,18 @@ blueCar.addEventListener("animationiteration", function(){
     counter++
 })
 
-//rececar move
+//racecar move
 window.addEventListener("keydown", function(e){
-   if(e.keyCode == "39"){ var raceCarLeft = parseInt(window.getComputedStyle(raceCar).getPropertyValue("left"))
-    if(raceCarLeft < 260){raceCar.style.left = (raceCarLeft + 130) + "px"}
+    //right move
+   if(e.keyCode == "39"){ 
+    var raceCarLeft = parseInt(window.getComputedStyle(raceCar).getPropertyValue("left"))
+    if(raceCarLeft < 260){ //as starts from middle so already 130 if 260 then it is in extreme right so thats why has to be less than 260
+        raceCar.style.left = (raceCarLeft + 130) + "px"  //starts from middle
+    }
     jumpsound.play()
 };
 
+    //left move
     if(e.keyCode == "37"){
         var raceCarLeft = parseInt(window.getComputedStyle(raceCar).getPropertyValue("left"))
         if(raceCarLeft > 0){raceCar.style.left = (raceCarLeft - 130) + "px"
